@@ -31,6 +31,28 @@
 ### 참가동아리 리스트
 
 동아리명(소속)|스터디분야|활동페이지
+--------------|----------|----------
+ALOHA|알고리즘|https://www.facebook.com/HYUALOHA
+A.N.S.I.|프로그래밍|https://cafe.naver.com/ajouansi
+Bacchus|시스템관리|http://bacchus.snucse.org
+Baram|로봇|baram.kw.ac.kr
+Codin9cafe|프로그래밍|https://www.facebook.com/groups/codin9cafe/
+EOS|앱개발|http://hyu-eos.tistory.com/
+Hacker|프로그래밍|-
+IGRUS|보안,알고리즘 등|-
+Intersection|공모전참가|-
+KHLUG|리눅스,아두이노 등|http://www.khlug.org
+NET|웹서비스|https://www.facebook.com/groups/132988286804307/
+NEXTERS|창업|https://www.facebook.com/Nexterspage
+PoApper|-|https://www.facebook.com/PoApper/?fref=ts
+REAL|창업|http://startreal.org
+Revolution|게임|https://www.facebook.com/knurevolution
+SNUSAT|인공위성|https://www.facebook.com/SNUSat-172676986102237/?fref=ts
+TMI|HW&SW전반|https://www.facebook.com/groups/306984199313364
+SOCC|IT컨퍼런스|https://www.facebook.com/Soccpage/?fref=ts
+SOPT|프로그래밍|http://www.sopt.org/
+
+문의사항은 여기(클릭)에 남겨주세요!
 
 
 
