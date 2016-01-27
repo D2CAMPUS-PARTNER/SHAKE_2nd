@@ -35,7 +35,7 @@
 ALOHA|알고리즘|https://www.facebook.com/HYUALOHA
 A.N.S.I.|프로그래밍|https://cafe.naver.com/ajouansi
 Bacchus|시스템관리|http://bacchus.snucse.org
-Baram|로봇|baram.kw.ac.kr
+Baram|로봇|http://baram.kw.ac.kr
 Codin9cafe|프로그래밍|https://www.facebook.com/groups/codin9cafe/
 EOS|앱개발|http://hyu-eos.tistory.com/
 Hacker|프로그래밍|-
@@ -52,7 +52,6 @@ TMI|HW&SW전반|https://www.facebook.com/groups/306984199313364
 SOCC|IT컨퍼런스|https://www.facebook.com/Soccpage/?fref=ts
 SOPT|프로그래밍|http://www.sopt.org/
 
-문의사항은 여기(클릭)에 남겨주세요!
 
 
 
