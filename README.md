@@ -2,7 +2,7 @@
 
 ### 사전준비
 
-[Issues] 에서 아래 서식으로 동아리 소개를 '꼭' 작성해주세요.
+[Issues](https://github.com/D2CAMPUS-PARTNER/SHAKE_2nd/issues/new) 에서 아래 서식으로 동아리 소개를 '꼭' 작성해주세요.
 
 ```javascript
 제목 : [동아리명] - 스터디분야
