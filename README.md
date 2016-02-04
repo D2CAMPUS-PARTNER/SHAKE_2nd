@@ -51,6 +51,7 @@ SNUSAT|인공위성|https://www.facebook.com/SNUSat-172676986102237/?fref=ts
 TMI|HW&SW전반|https://www.facebook.com/groups/306984199313364
 SOCC|IT컨퍼런스|https://www.facebook.com/Soccpage/?fref=ts
 SOPT|프로그래밍|http://www.sopt.org/
+KSIA|-|http://www.smartksia.org/
 
 
 
