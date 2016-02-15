@@ -39,6 +39,7 @@ Baram|로봇|http://baram.kw.ac.kr
 Codin9cafe|프로그래밍|https://www.facebook.com/groups/codin9cafe/
 EOS|앱개발|http://hyu-eos.tistory.com/
 Hacker|프로그래밍|-
+HeXA||
 IGRUS|보안,알고리즘 등|-
 Intersection|공모전참가|-
 KHLUG|리눅스,아두이노 등|http://www.khlug.org
@@ -52,7 +53,9 @@ TMI|HW&SW전반|https://www.facebook.com/groups/306984199313364
 SOCC|IT컨퍼런스|https://www.facebook.com/Soccpage/?fref=ts
 SOPT|프로그래밍|http://www.sopt.org/
 KSIA|-|http://www.smartksia.org/
-
-
+X[deca]|로봇|http://www.xdeca.com/
+YAPP|앱개발|http://www.yapp.co.kr/
+Zeropage|프로그래밍|zeropage.org
+하나와영|SW전공학회|http://koreaoaz.com/
 
 
