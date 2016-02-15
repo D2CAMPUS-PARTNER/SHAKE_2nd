@@ -39,7 +39,7 @@ Baram|로봇|http://baram.kw.ac.kr
 Codin9cafe|프로그래밍|https://www.facebook.com/groups/codin9cafe/
 EOS|앱개발|http://hyu-eos.tistory.com/
 Hacker|프로그래밍|-
-HeXA||
+HeXA|보안|http://hexa-unist.github.io/
 IGRUS|보안,알고리즘 등|-
 Intersection|공모전참가|-
 KHLUG|리눅스,아두이노 등|http://www.khlug.org
